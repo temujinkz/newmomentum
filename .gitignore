@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# typescript
+*.tsbuildinfo
+
+# os
+.DS_Store
+
+# env
+.env*.local
+.env
+
+# editor / tools
+.vscode/
+.idea/
+.claude/
+
+# project-local extras (font source download lives in public/fonts already)
+inter-display/
