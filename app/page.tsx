@@ -10,7 +10,7 @@ export default function HomePage() {
       </h1>
 
       <p className="mt-5 text-[color:var(--ink)]">
-        Momentum is a design and engineering studio in Santa Clara (Sillicon Valley).
+        Momentum is a design and engineering studio in Santa Clara (Silicon Valley).
         We redesign websites for companies that are sick off losing clients, 
         and we build AI automations for teams who shouldn't be doing
         the same thing twice. Two services. Both done well, or not at all.
