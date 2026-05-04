@@ -6,23 +6,19 @@ export default function HomePage() {
   return (
     <article>
       <h1 className="text-[22px] leading-[1.25] font-medium tracking-[-0.01em]">
-        We make websites worth showing
-        <br />
-        off, and we make work disappear.
+        We craft websites worth showing off.
       </h1>
 
       <p className="mt-5 text-[color:var(--ink)]">
-        Momentum is a design and engineering studio in Santa Clara. We
-        redesign websites for founders who've outgrown the off-the-shelf
-        look, and we build AI automations for teams who shouldn't be doing
+        Momentum is a design and engineering studio in Santa Clara (Sillicon Valley).
+        We redesign websites for companies that are sick off losing clients, 
+        and we build AI automations for teams who shouldn't be doing
         the same thing twice. Two services. Both done well, or not at all.
       </p>
 
       <p className="mt-4 text-[color:var(--ink)]">
-        We work with a few clients at a time, in a shared Slack or Telegram
-        channel, with progress two or three times a week. No status calls.
-        No decks about decks. The work shows up, you react to it, we keep
-        going.
+        We work with just a few clients at a time as focus is key. 
+        We create a shared Slack and report all the progress two or three times a week.
       </p>
 
       <div className="mt-7">
@@ -39,12 +35,11 @@ export default function HomePage() {
           href="/process"
           className="underline decoration-[color:var(--line)] underline-offset-4 hover:decoration-[color:var(--ink)]"
         >
-          Landing pages from $1K
+          Landing pages start from $3K
         </Link>
-        . Automations priced per project, because pretending otherwise would
-        be insulting. Most engagements run three to six weeks. Pause or
-        cancel between sprints. No retainers, no contracts that read like
-        mortgages.
+        . AI Automations are priced per project, as they all differ in complexities. 
+        A typical project will take two to four months. 
+        You can pause whenever you want.
       </p>
 
       <h2 className="mt-8 text-[color:var(--ink-muted)]">What we do</h2>
