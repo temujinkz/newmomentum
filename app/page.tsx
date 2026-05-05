@@ -29,7 +29,7 @@ export default function HomePage() {
           Email us
         </a>
         <a
-          href="https://cal.com/"
+          href="https://cal.com/temujin-mvgvvh/15min"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center justify-center rounded-full border border-[color:var(--ink)] px-5 py-2 text-[14px] font-medium text-[color:var(--ink)] hover:bg-[color:var(--ink)] hover:text-white transition-colors"
