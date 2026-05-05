@@ -21,12 +21,20 @@ export default function HomePage() {
         We create a shared Slack and report all the progress two or three times a week.
       </p>
 
-      <div className="mt-7">
+      <div className="mt-7 flex flex-wrap items-center gap-3">
         <a
           href="mailto:ttalkenov@gmail.com"
           className="inline-flex items-center justify-center rounded-full bg-[color:var(--ink)] px-5 py-2 text-[14px] font-medium text-white hover:opacity-90 transition-opacity"
         >
           Email us
+        </a>
+        <a
+          href="https://cal.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center justify-center rounded-full border border-[color:var(--ink)] px-5 py-2 text-[14px] font-medium text-[color:var(--ink)] hover:bg-[color:var(--ink)] hover:text-white transition-colors"
+        >
+          Book a call
         </a>
       </div>
 
