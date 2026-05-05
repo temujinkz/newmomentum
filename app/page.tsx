@@ -37,7 +37,7 @@ export default function HomePage() {
         >
           Landing pages start from $5K
         </Link>
-        .AI Automations are priced per project, as they all differ in complexities. 
+        . AI Automations are priced per project, as they all differ in complexities. 
         A typical project will take two to four months. 
         You can pause whenever you want.
       </p>
