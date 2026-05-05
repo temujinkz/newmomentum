@@ -35,7 +35,7 @@ export default function HomePage() {
           href="/process"
           className="underline decoration-[color:var(--line)] underline-offset-4 hover:decoration-[color:var(--ink)]"
         >
-          Landing pages start from $3K
+          Landing pages start from $5K
         </Link>
         . AI Automations are priced per project, as they all differ in complexities. 
         A typical project will take two to four months. 
