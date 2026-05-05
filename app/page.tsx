@@ -23,7 +23,7 @@ export default function HomePage() {
 
       <div className="mt-7 flex flex-wrap items-center gap-3">
         <a
-          href="mailto:ttalkenov@gmail.com"
+          href="mailto:temujin@talkenov.com"
           className="inline-flex items-center justify-center rounded-full bg-[color:var(--ink)] px-5 py-2 text-[14px] font-medium text-white hover:opacity-90 transition-opacity"
         >
           Email us

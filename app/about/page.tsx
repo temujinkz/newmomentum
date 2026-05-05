@@ -30,10 +30,10 @@ export default function AboutPage() {
 
       <p className="mt-10 text-[color:var(--ink-muted)]">
         <a
-          href="mailto:ttalkenov@gmail.com"
+          href="mailto:temujin@talkenov.com"
           className="text-[color:var(--ink)] underline decoration-[color:var(--line)] underline-offset-4 hover:decoration-[color:var(--ink)]"
         >
-          ttalkenov@gmail.com
+          temujin@talkenov.com
         </a>
         <br />
         Founder
